@@ -7,11 +7,11 @@ Thus it seems our trained model performed better on the testing set than the tra
 
 Scope of Improvements
 
-1.Taking a bigger dataset with versatile and large training data
+1. Taking a bigger dataset with versatile and large training data.
 
-2.Checking for various algorithms
+2. Checking for various algorithms.
 
-3.Optimize the parameters.
+3. Optimize the parameters.
 
  
 
@@ -19,6 +19,6 @@ The practicality of this Project : Now let us refer to the elephant in the room.
 
 The reasons are:
 
-1.I have used an extremely small 
+1. I have used an extremely small.
 
-2.Real-life scenarios are quite different than what we discuss in theory. 
+2. Real-life scenarios are quite different than what we discuss in theory.
